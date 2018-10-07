@@ -1,0 +1,7 @@
+## Interface: 70300
+## Title: Goodjob
+## Author: BaconRemovalUnit
+## Version: @6969@
+## SavedVariables: GJ_Config
+Goodjob.lua
+
